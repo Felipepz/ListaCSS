@@ -1,0 +1,13 @@
+p {
+    font-size: 18px;
+}
+
+h1 {
+    color: red;
+}
+
+#titulo {
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+}
